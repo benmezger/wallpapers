@@ -1,0 +1,18 @@
+#+TITLE: README
+#+SUBTITLE: Personal wallpapers
+#+AUTHOR: Ben Mezger
+#+EMAIL: me@benmezger.nl
+#+DATE: <2020-09-07 Mon 10:15>
+
+#+HTML_DOCTYPE: xhtml5
+#+HTML_HTML5_FANCY:
+
+# Hugo config
+#+DRAFT: false
+#+HUGO_AUTO_SET_LASTMOD: t
+#+HUGO_BASE_DIR: ~/workspace/blog
+#+HUGO_AUTO_SET_LASTMOD: t
+
+These are the wallpapers I use in my computer. Most of the downloads are from:
+
+- [[https://wallhaven.cc/][Wallhaven]]
